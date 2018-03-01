@@ -1,0 +1,21 @@
+{
+	"disable_auto_align": true,
+	"format_on_save": false,
+	"indent_with_space": true,
+	"option": "value",
+	"passes":
+	[
+		"OnlyOrderUseClauses"
+	],
+	"php_bin": "/usr/bin/php",
+	"psr1": true,
+	"psr2": true,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"spaces": 4,
+	"tab_size": 4,
+	"version": 4
+}

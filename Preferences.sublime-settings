@@ -1,11 +1,47 @@
 {
+	"alert_when_encoding_is_not":
+	[
+		"UTF-8",
+		"ISO-8859-1",
+		"Cyrillic (Windows 1251)"
+	],
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_delay": 0,
+	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.mp3",
+		"*.wav",
+		"*.ogg"
+	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
+	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"find_selected_text": true,
+	"font_options":
+	[
+		"subpixel_antialias",
+		"gdi"
+	],
 	"font_size": 12,
 	"format_on_save": true,
 	"highlight_line": true,
@@ -24,7 +60,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"smart_indent": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true

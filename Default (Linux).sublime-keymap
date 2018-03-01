@@ -1,0 +1,8 @@
+[
+  {
+    "keys": ["f5"],
+    "command": "refresh_folder_list"
+  },
+    { "keys": ["ctrl+\\"],
+    "command": "toggle_side_bar" }
+]

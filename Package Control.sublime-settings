@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoPEP8",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Elm Language Support",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"Package Control",
+		"phpfmt",
+		"ReactJS",
+		"RuboCop",
+		"Ruby Slim",
+		"SublimeLinter",
+		"SublimeLinter-contrib-ansible-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"Vue Syntax Highlight"
+	]
+}
